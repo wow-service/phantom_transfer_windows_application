@@ -5,7 +5,8 @@
 ### 1. Development environment
 
 ```
-python pyside6
+pip install pyside6
+pip install solana
 ```
 
 ### 2. Example
@@ -22,10 +23,9 @@ python pyside6
 5.The drop-down box is the network type
 ```
 
-### 4. Buy source code
+### 4. Donations
 
 ```
-1. Send 0.5 sol to < BPaJPqGvtXSoxcDXuq85rXjbnHdE8YugCH1YyyKB3bo7 >
-2. Leave your email address in the github issues interface
+BPaJPqGvtXSoxcDXuq85rXjbnHdE8YugCH1YyyKB3bo7
 ```
 
