@@ -23,7 +23,23 @@ pip install solana
 5.The drop-down box is the network type
 ```
 
-### 4. Donations
+### 4. Wallet Manager
+
+```
+1. add sender wallet
+	modify db/senders.json
+2. add receiver wallet
+	modify db/receivers.json
+```
+
+### 5. Rpc Manager
+
+```
+1. change rpc endpoint
+	modify db/endpoints.json
+```
+
+### 6. Donations
 
 ```
 BPaJPqGvtXSoxcDXuq85rXjbnHdE8YugCH1YyyKB3bo7
